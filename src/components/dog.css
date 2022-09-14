@@ -1,0 +1,45 @@
+body {
+    font-family: 'Brush Script MT', cursive;
+  }
+  
+  .dog-image {
+     width: 80%;
+     height: auto;
+     max-height: 500px;
+     object-fit: cover;
+  }
+  
+  .div-of-dog-image {
+    width: 50%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    margin-left: 25%;
+  }
+  
+  .form-button {
+    font-family: 'Bungee Shade';
+    font-size: 17px;
+    width: 50%;
+    margin-left: 25%;
+  }
+  
+  .form-button:hover {
+    box-shadow:  4px 4px 6px 0 rgba(255,255,255,.5),
+                -4px -4px 6px 0 rgba(116, 125, 136, .5), 
+      inset -4px -4px 6px 0 rgba(255,255,255,.2),
+      inset 4px 4px 6px 0 rgba(0, 0, 0, .4);
+  }
+  
+  .form-input, .form-input-sub {
+    font-family: 'Amatic SC';
+    font-size: large;
+  }
+  .form-input-sub:hover {
+   border-color:  rgb(61, 198, 198);
+   border-radius: 30%;
+   transition: 0.5s;
+   background: linear-gradient(90deg, #D7EDFF 1.18%, #1aa3fd 100%);
+  }
+  
