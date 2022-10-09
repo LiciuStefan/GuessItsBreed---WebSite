@@ -19,8 +19,8 @@ body {
   }
   
   .form-button {
-    font-family: 'Bungee Shade';
-    font-size: 17px;
+    font-family: 'Bungee Spice', cursive;
+    font-size: 25px;
     width: 50%;
     margin-left: 25%;
   }
@@ -33,7 +33,7 @@ body {
   }
   
   .form-input, .form-input-sub {
-    font-family: 'Amatic SC';
+    font-family: 'Rubik Dirt', cursive;
     font-size: large;
   }
   .form-input-sub:hover {
