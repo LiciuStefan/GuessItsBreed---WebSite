@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/GuessItsBreed---WebSite/static/css/main.7c7f9595.css",
+    "main.js": "/GuessItsBreed---WebSite/static/js/main.bb0c884a.js",
+    "static/js/787.896ced72.chunk.js": "/GuessItsBreed---WebSite/static/js/787.896ced72.chunk.js",
+    "static/media/cute-dog.jpg": "/GuessItsBreed---WebSite/static/media/cute-dog.e2fac46587c346bb47b1.jpg",
+    "index.html": "/GuessItsBreed---WebSite/index.html",
+    "main.7c7f9595.css.map": "/GuessItsBreed---WebSite/static/css/main.7c7f9595.css.map",
+    "main.bb0c884a.js.map": "/GuessItsBreed---WebSite/static/js/main.bb0c884a.js.map",
+    "787.896ced72.chunk.js.map": "/GuessItsBreed---WebSite/static/js/787.896ced72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c7f9595.css",
+    "static/js/main.bb0c884a.js"
+  ]
+}
